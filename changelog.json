@@ -643,6 +643,13 @@
     {
         "version": "v14.48",
         "date": "2025. 11. 06.",
-        "changelog": "**🍥 Sokszínű-parancsok**\n-# Új:\n- `Catfact`: random macska tények 🐈\n- `Nekosia`: anime képek keresése kategória és/vagy tagek alapján (. ❛ ᴗ ❛.)\n-# Változások:\n- `Nekosbest`:\n    - mostantól jelzi a kép linkjét\n   - megújult a kategóriák kijelzése\n\n🤖 **Információs-parancsok**\n-# Változások:\n- `Info`: felhasznált projektek jelzése"
+        "changelog": "**🍥 Sokszínű-parancsok**\n-# Új:\n- `Catfact`: random macska tények 🐈\n- `Nekosia`: anime képek keresése kategória és/vagy tagek alapján (. ❛ ᴗ ❛.)\n-# Változások:\n- `Nekosbest`:\n    - mostantól jelzi a kép linkjét\n   - megújult a kategóriák kijelzése\n\n🤖 **Információs-parancsok**\n-# Változások:\n- `Info`: felhasznált projektek jelzése",
+        "subversions": [
+            {
+                "version": "v14.48.1",
+                "date": "2025. 12. 02.",
+                "changelog": "**🍥 Sokszínű-parancsok**\n-# Változások:\n- `Saspont adatok`: kaszinó statisztikák megjelenítése (winrate, legnagyobb nyeremény stb.)\n-# Javítások:\n- `sasPont adatok`: mindig a lekérdező globális helyezésének jelzése"
+            }
+        ]
     }
 ]
